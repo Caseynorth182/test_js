@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-self: center;
+
+}
+
+.img {
+    margin: 0 auto;
+
+}
+
+.img img {
+    width: 200px;
+    height: 200px;
+}
+
+.out {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
